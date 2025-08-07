@@ -2,14 +2,14 @@
   "fotos": [
     {
       "id": 1,
-      "imagem": "http://localhost:8080/20250731_135230.jpg",
+      "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczN7pxSEfGT4lj1tdk_XLG9DXDvG3n4sZlysjnTceOXN7m6nbpSAMVP-=w1118-h2484-s-no-gm?authuser=0",
       "legenda": "Local que usamos para jogar Brawl Stars",
       "data" : "31-07-2025"
     },
     {
       "id": 2,
-      "imagem": "http://localhost:8080/20250731_135235.jpg",
-      "legenda": "Local que usamos para jogar Brawl Stars (Horizontal)",
+      "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczO7RrIuJFzfWfxIuWfFzRbHy2oZwqy0cUpyqa8_UUvnPJ1ZlPVCQA_L=w1118-h2484-s-no-gm?authuser=0",
+      "legenda": "Local de empinar empilhadeira",
       "data" : "31-07-2025"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "imagem": "http://localhost:8080/20250731_140335.jpg",
+      "imagem": "https://photos.fife.usercontent.google.com/pw/AP1GczNosYpfN6bMuJAHnm6t2yEYeviflEAQWmQt_Lg05wZPJKynYEH3LCQO=w1118-h2484-s-no-gm?authuser=0",
       "legenda": "Local que jogamos brawl depois de terminar as atividades",
       "data" : "31-07-2025"
     }

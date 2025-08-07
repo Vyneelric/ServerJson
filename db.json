@@ -1,0 +1,30 @@
+{
+  "fotos": [
+    {
+      "id": 1,
+      "imagem": "http://localhost:8080/20250731_135230.jpg",
+      "legenda": "Local que usamos para jogar Brawl Stars",
+      "data" : "31-07-2025"
+    },
+    {
+      "id": 2,
+      "imagem": "http://localhost:8080/20250731_135235.jpg",
+      "legenda": "Local que usamos para jogar Brawl Stars (Horizontal)",
+      "data" : "31-07-2025"
+    },
+    {
+      "id": 3,
+      "imagem": "http://localhost:8080/20250731_135424.jpg",
+      "legenda": "Local que íamos encher a garrafa de água em eletro",
+      "data" : "31-07-2025"
+    },
+    {
+      "id": 4,
+      "imagem": "http://localhost:8080/20250731_140335.jpg",
+      "legenda": "Local que jogamos brawl depois de terminar as atividades",
+      "data" : "31-07-2025"
+    }
+  ]
+}
+
+
